@@ -13,4 +13,4 @@ for digit in pi.PI:
     if digit == ".":
         continue
     
-    play(digit)
+    play(int(digit))
