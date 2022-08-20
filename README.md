@@ -17,7 +17,8 @@
 
 ### pygame library
 
-```
+```bash
+git clone https://github.com/delphox60/Pi-song-player.git
 pip3 install pygame
 ```
 
@@ -25,6 +26,6 @@ pip3 install pygame
 
 ## Run
 
-```
+```bash
 python3 main.py
 ```
