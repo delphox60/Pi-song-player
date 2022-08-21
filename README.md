@@ -2,7 +2,7 @@
 
 <img src="https://img.tf.co.kr/article/home/2022/03/04/20227243164638800710.jpg"></img>
 
-> What happens if we play π on the piano like in the _이상한 나라의 수학자 (2022)_?
+> What happens if we play π on the piano like in _이상한 나라의 수학자 (2022)_?
 
 </br>
 
@@ -13,9 +13,7 @@
 
 </br>
 
-## Install
-
-### pygame library
+## Installation
 
 ```bash
 git clone https://github.com/delphox60/Pi-song-player.git
